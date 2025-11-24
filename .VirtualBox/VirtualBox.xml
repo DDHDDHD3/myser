@@ -12,11 +12,12 @@
       <ExtraDataItem name="GUI/HelpBrowserZoomPercentage" value="100"/>
       <ExtraDataItem name="GUI/HideDescriptionForWizards" value="ExportAppliance"/>
       <ExtraDataItem name="GUI/LastItemSelected" value="m=8fd2164a-bbcd-4f35-8d09-326ba8364f6d"/>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="0,29,948,475"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="0,9,948,475"/>
       <ExtraDataItem name="GUI/MediumSelector/DialogGeometry" value="236,87,480,378"/>
       <ExtraDataItem name="GUI/NotificationCenter/Order" value="Ascending"/>
       <ExtraDataItem name="GUI/RecentFolderCD" value="C:/Users/hp/Desktop/LAB"/>
       <ExtraDataItem name="GUI/RecentListCD" value="C:/Users/hp/Desktop/LAB/Windows 10 Pro en-US v1909 x64 BiT Activated.iso,C:/Users/hp/Desktop/LAB/19044.1288.211006-0501.21h2_release_svc_refresh_CLIENTENTERPRISEEVAL_OEMRET_x64FRE_en-us.iso"/>
+      <ExtraDataItem name="GUI/SuppressMessages" value="remindAboutAutoCapture,remindAboutMouseIntegration"/>
       <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Welcome,Snapshots"/>
       <ExtraDataItem name="HostOnly/{21db604e-c0da-4bf9-9357-9b07ba6ece50}/IPAddress" value="192.168.56.1"/>
       <ExtraDataItem name="HostOnly/{21db604e-c0da-4bf9-9357-9b07ba6ece50}/IPNetMask" value="255.255.255.0"/>

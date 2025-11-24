@@ -1,20 +1,4 @@
-00:00:02.318382 VirtualBox GUI VM Selector Window 7.0.18 r162988 win.amd64 (May  2 2024 10:02:33) release log
-00:00:02.318391 Log opened 2024-06-15T05:45:24.908233300Z
-00:00:02.318394 Build Type: release
-00:00:02.318412 OS Product: Windows 8
-00:00:02.318416 OS Release: 6.2.9200
-00:00:02.318419 OS Service Pack: 
-00:00:02.385391 DMI Product Name: HP EliteBook 830 G5
-00:00:02.406296 DMI Product Version:  
-00:00:02.406417 Firmware type: BIOS
-00:00:02.406476 Host RAM: 16227MB (15.8GB) total, 10800MB (10.5GB) available
-00:00:02.406500 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
-00:00:02.406503 Process ID: 5952
-00:00:02.406507 Package type: WINDOWS_64BITS_GENERIC
-00:00:02.406955 Qt version: 5.15.2
-00:00:02.420401 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
-00:00:02.760404 GUI: UIMediumEnumerator: Medium-enumeration started...
-00:00:10.774778 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:34:52.439374 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:35:00.556574 GUI: UICommon: Handling aboutToQuit request..
-00:35:01.932778 GUI: UICommon: aboutToQuit request handled!
+07:05:06.869796 Log continuation - Log started 2024-06-15T13:44:41.024988200Z
+07:05:16.840533 GUI: UIMediumEnumerator: Medium-enumeration finished!
+07:05:21.321732 GUI: UICommon: Handling aboutToQuit request..
+07:05:22.963341 GUI: UICommon: aboutToQuit request handled!
