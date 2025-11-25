@@ -1,0 +1,466 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Workspace>
+	<Shortcuts Version="0">
+		<Item type="GlobalCommand" command="Serif.Affinity.Commands.ShowSwitchDocumentDialogCommand, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Tab" modifierKeys="Control" />
+		<Item type="GlobalCommand" command="Serif.Affinity.Commands.ReverseSwitchDocumentDialogCommand, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Tab" modifierKeys="Control, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.CycleSnappingPlanesCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="'" modifierKeys="None" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetFillNoneCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="/" modifierKeys="None" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetFillContextToBlackAndWhiteCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="D" modifierKeys="None" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SwapLineAndFillCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="X" modifierKeys="Shift" />
+		<Item type="GlobalCommand" command="Serif.Affinity.Commands.SwitchToNextViewCommand, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="`" modifierKeys="None" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.QuickMaskPopupCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Q" modifierKeys="None" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.ToggleFillContextCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="X" modifierKeys="None" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.ToggleFrequencyLayerCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="F" modifierKeys="Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.ToggleSnappingCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char=";" modifierKeys="None" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.ZoomInTabletCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="F15" modifierKeys="None" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.ZoomOutTabletCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="F16" modifierKeys="None" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModeNormalCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="N" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModeDarkenCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="K" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModeMultiplyCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="M" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModeColourBurnCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="B" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModeLinearBurnCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="A" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModeAddCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="W" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModeLightenCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="G" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModeScreenCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="S" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModeColourDodgeCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="D" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModeOverlayCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="O" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModeSoftLightCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="F" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModeHardightCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="H" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModeVividLightCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="V" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModeLinearLightCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="J" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModePinLightCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Z" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModeHardMixCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="L" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModeDifferenceCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="E" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModeExclusionCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="X" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModeHueCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="U" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModeSaturationCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="T" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModeColourCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="C" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetBlendModeLuminosityCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Y" modifierKeys="Alt, Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetNextBlendModeCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="OemPlus" modifierKeys="Shift" />
+		<Item type="GlobalCommand" command="Serif.Interop.Persona.Commands.SetPreviousBlendModeCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="OemMinus" modifierKeys="Shift" />
+		<Item type="GlobalCommand" command="Serif.Affinity.Commands.SwitchToWorkspaceCommand1, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="F2" modifierKeys="None" />
+		<Item type="GlobalCommand" command="Serif.Affinity.Commands.SwitchToWorkspaceCommand2, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="F3" modifierKeys="None" />
+		<Item type="GlobalCommand" command="Serif.Affinity.Commands.SwitchToWorkspaceCommand3, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="F4" modifierKeys="None" />
+		<Item type="GlobalCommand" command="Serif.Affinity.Commands.SwitchToWorkspaceCommand4, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="F5" modifierKeys="None" />
+		<Item type="GlobalCommand" command="Serif.Affinity.Commands.SwitchToWorkspaceCommand5, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="F6" modifierKeys="None" />
+		<Item type="GlobalCommand" command="Serif.Affinity.Commands.SwitchToWorkspaceCommand6, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="F7" modifierKeys="None" />
+		<Item type="GlobalCommand" command="Serif.Affinity.Commands.SwitchToWorkspaceCommand7, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="F8" modifierKeys="None" />
+		<Item type="GlobalCommand" command="Serif.Affinity.Commands.SwitchToWorkspaceCommand8, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="F9" modifierKeys="None" />
+		<Item type="Command" command="Serif.Affinity.Commands.NewDocumentCommand, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="N" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.NewPanoramaDocumentCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="P" modifierKeys="Alt, Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.NewStackDocumentCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="O" modifierKeys="Alt, Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.PasteToNewDocumentCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="N" modifierKeys="Alt, Control, Shift" />
+		<Item type="Command" command="Serif.Affinity.Commands.OpenDocumentCommand, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="O" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.CloseViewCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="W" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.CloseAllViewsCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="W" modifierKeys="Alt, Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.SaveDocumentCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="S" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.SaveDocumentAsCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="S" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Affinity.Commands.ExportDocumentCommand, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="W" modifierKeys="Alt, Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.PlaceFileCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="M" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.DocumentSetupCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="P" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Affinity.Commands.PrintDocumentCommand, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="P" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.UndoCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Z" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.RedoCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Z" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.CutCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="X" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.CopyCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="C" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.CopyMergedCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="C" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.PasteCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="V" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.PasteStyleCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="V" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.PasteInsideCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="V" modifierKeys="Alt, Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.PasteWithoutFormatCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="V" modifierKeys="Alt, Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.DuplicateObjectsCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="J" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.DeleteObjectsCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Back" modifierKeys="None" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.SetRasterFillToolCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="F5" modifierKeys="Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.InpaintCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Back" modifierKeys="Alt, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.SetRasterFillPrimaryCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Back" modifierKeys="Alt" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.SetRasterFillSecondaryCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Back" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.PreferencesCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="OemComma" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Affinity.Commands.ShowFindAndReplacePageCommand, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="F" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.BiggerCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="&gt;" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.SmallerCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="&lt;" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.PreciseBiggerCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="&gt;" modifierKeys="Alt, Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.PreciseSmallerCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="&lt;" modifierKeys="Alt, Control" />
+		<Item type="Command" command="Serif.Affinity.Commands.InsertIndexMarkCommand, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="[" modifierKeys="Alt, Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.TightenSpacingCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Left" modifierKeys="Alt" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.LoosenSpacingCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Right" modifierKeys="Alt" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.TightenSpacingMoreCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Left" modifierKeys="Alt, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.LoosenSpacingMoreCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Right" modifierKeys="Alt, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.UseSuperscriptBaselineCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="OemPlus" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.UseSubscriptBaselineCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="OemMinus" modifierKeys="Alt, Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.RaiseBaselineCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Up" modifierKeys="Alt, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.LowerBaselineCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Down" modifierKeys="Alt, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.PreciseRaiseBaselineCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" modifierKeys="None" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.PreciseLowerBaselineCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" modifierKeys="None" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.TextAlignJustifyLeftCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="|" modifierKeys="Alt, Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.IncreaseParagraphLeadingCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Down" modifierKeys="Alt" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.DecreaseParagraphLeadingCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Up" modifierKeys="Alt" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.PreciseIncreaseParagraphLeadingCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" modifierKeys="None" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.PreciseDecreaseParagraphLeadingCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" modifierKeys="None" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.InsertLineBreakCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Return" modifierKeys="Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.InsertEmDashCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="-" modifierKeys="Alt, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.InsertEnDashCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="-" modifierKeys="Alt" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.InsertSoftHyphenCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="-" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.InsertNonBreakingHyphenCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="-" modifierKeys="Alt, Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.InsertNonBreakingSpaceCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Space" modifierKeys="Alt" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.InsertRightIndentTabCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Tab" modifierKeys="Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.InsertIndentToHereCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="\" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Affinity.Commands.ShowSpellingOptionsCommand, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Oem1" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ListIncreaseLevelCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="]" modifierKeys="Alt, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ListDecreaseLevelCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="[" modifierKeys="Alt, Shift" />
+		<Item type="Command" command="Serif.Affinity.Commands.ResizeDocumentCommand, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="I" modifierKeys="Alt, Control" />
+		<Item type="Command" command="Serif.Affinity.Commands.ResizeCanvasCommand, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" modifierKeys="None" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.RotateCanvasClockwiseCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Up" modifierKeys="Alt, Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.RotateCanvasAnticlockwiseCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Down" modifierKeys="Alt, Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.FlipCanvasHorizontalCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Left" modifierKeys="Alt, Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.FlipCanvasVerticalCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Right" modifierKeys="Alt, Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.AddPageCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Next" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.PreviousSpreadCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="PageUp" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.NextSpreadCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Next" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.DeformMeshCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="M" modifierKeys="Alt, Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.NewVectorLayerCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="L" modifierKeys="Alt, Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ConvertToPictureFrameCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="P" modifierKeys="Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.FindInLayerPanelCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="K" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.FadeRewindCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="F" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.InvertPixelsCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" modifierKeys="None" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.GroupNodesCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="G" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.UngroupNodesCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="G" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.MoveToFrontCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="]" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ForwardOneCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="]" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.BackOneCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="[" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.MoveToBackCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="[" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.MoveInsideCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="G" modifierKeys="Alt, Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.MoveOutsideCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="G" modifierKeys="Alt, Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.InsertTargetInsideCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="I" modifierKeys="Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.NewPixelLayerCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="N" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.AddLevelsAdjustmentLayerCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="L" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.AddCurvesAdjustmentLayerCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="M" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.AddBlackAndWhiteAdjustmentLayerCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="B" modifierKeys="Alt, Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.AddHSLAdjustmentLayerCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="U" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.AddBrightnessContrastAdjustmentLayerCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="B" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.UnlockCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="L" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.UnlockAllCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="L" modifierKeys="Alt, Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ShowAllCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="H" modifierKeys="Alt, Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ConvertToCurvesCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Return" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.HideOthersCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="H" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ShowOthersCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="H" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.EditMasterDetachedCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="D" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.EditMasterAutoCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" modifierKeys="None" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.RenameLayerCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="R" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.MaskToBelowCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="C" modifierKeys="Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.MergeDownCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="E" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.MergeSelectedCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="E" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.MergeVisibleCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="E" modifierKeys="Alt, Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.SelectAllCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="A" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.DeselectCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="D" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.InvertPixelSelectionCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="I" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.SelectNextLayerCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="]" modifierKeys="Alt" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.SelectPreviousLayerCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="[" modifierKeys="Alt" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.CreatePixelSelectionFromObjectCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="O" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.SetGrowShrinkSelectionToolCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" modifierKeys="None" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.SetFeatherSelectionToolCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="F6" modifierKeys="Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.SetRefineSelectionToolCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" modifierKeys="None" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.CycleSelectionBoxCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="OemPeriod" modifierKeys="None" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.SetSelectionBoxCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="OemPeriod" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.RepeatLastCommandCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="F" modifierKeys="Alt, Control" />
+		<Item type="Command" command="Serif.Affinity.Commands.SwitchToDevelopWorkspaceCommand, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="A" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.AddLiquifyLiveFilterCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="X" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ZoomInCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="OemPlus" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ZoomOutCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="OemMinus" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ZoomToFitCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="D0" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ZoomToWidthCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="D0" modifierKeys="Alt, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ZoomToSelectionCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="D0" modifierKeys="Alt, Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ZoomToDocumentCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="D0" modifierKeys="Alt, Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ZoomTo100Command, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="D1" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ZoomTo200Command, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="D2" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ZoomTo400Command, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="D3" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ZoomTo800Command, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="D4" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ZoomToActualSizeCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="D8" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ZoomToPixelSizeCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="D9" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ResetRotationCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="R" modifierKeys="Alt, Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.PixelViewModeCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Y" modifierKeys="Alt, Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.Pixel2xViewModeCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Y" modifierKeys="Alt, Control, Shift" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.AutoWireframeViewModeCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Y" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.SplitViewModeCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="," modifierKeys="None" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ClipToCanvasCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="\" modifierKeys="None" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ToggleGuidesCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char=";" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ToggleGridCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="'" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.TogglePixelGridCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" char="'" modifierKeys="Alt, Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ToggleRulersCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="R" modifierKeys="Control" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ToggleHideAllGuidesCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="W" modifierKeys="Control, Shift" />
+		<Item type="Command" command="Serif.Affinity.Commands.ToggleUICommand, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="Tab" modifierKeys="None" />
+		<Item type="Command" command="Serif.Affinity.Commands.HideStudioCommand, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" modifierKeys="None" />
+		<Item type="Command" command="Serif.Affinity.Commands.ShowToolbarCommand, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="T" modifierKeys="Alt, Control" />
+		<Item type="Command" command="Serif.Affinity.Commands.ShowHelpCommand, Serif.Affinity, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="F1" modifierKeys="None" />
+		<Item type="Command" command="Serif.Interop.Persona.Commands.ToggleUnicodeCommand, Serif.Interop.Persona, Version=3.0.0.3791, Culture=neutral, PublicKeyToken=null" key="U" modifierKeys="Alt" />
+		<Item type="ToolType" tool="Pan" key="H" modifierKeys="None" />
+		<Item type="ToolType" tool="Select" key="V" modifierKeys="None" />
+		<Item type="ToolType" tool="ColourPicker" key="I" modifierKeys="None" />
+		<Item type="ToolType" tool="RasterCrop" key="C" modifierKeys="None" />
+		<Item type="ToolType" tool="RasterFloodSelect" key="W" modifierKeys="None" />
+		<Item type="ToolType" tool="RasterSelectionBrush" key="W" modifierKeys="None" />
+		<Item type="ToolType" tool="RectangularMarquee" key="M" modifierKeys="None" />
+		<Item type="ToolType" tool="EllipticalMarquee" key="M" modifierKeys="None" />
+		<Item type="ToolType" tool="ColumnMarquee" key="M" modifierKeys="None" />
+		<Item type="ToolType" tool="RowMarquee" key="M" modifierKeys="None" />
+		<Item type="ToolType" tool="FreeHandSelection" key="L" modifierKeys="None" />
+		<Item type="ToolType" tool="Patch" key="J" modifierKeys="None" />
+		<Item type="ToolType" tool="BlemishRemoval" key="J" modifierKeys="None" />
+		<Item type="ToolType" tool="RasterInpaintingBrush" key="J" modifierKeys="None" />
+		<Item type="ToolType" tool="RedEyeRemoval" key="J" modifierKeys="None" />
+		<Item type="ToolType" tool="Pen" key="P" modifierKeys="None" />
+		<Item type="ToolType" tool="Node" key="A" modifierKeys="None" />
+		<Item type="ToolType" tool="ShapeRectangle" key="U" modifierKeys="None" />
+		<Item type="ToolType" tool="ShapeEllipse" key="U" modifierKeys="None" />
+		<Item type="ToolType" tool="ShapeRoundedRectangle" key="U" modifierKeys="None" />
+		<Item type="ToolType" tool="FrameText" key="T" modifierKeys="None" />
+		<Item type="ToolType" tool="ArtText" key="T" modifierKeys="None" />
+		<Item type="ToolType" tool="Zoom" key="Z" modifierKeys="None" />
+		<Item type="ToolType" tool="Transform" key="F" modifierKeys="None" />
+		<Item type="ToolType" tool="Corner" key="C" modifierKeys="None" />
+		<Item type="ToolType" tool="Contour" key="O" modifierKeys="None" />
+		<Item type="ToolType" tool="StrokeWidth" key="W" modifierKeys="None" />
+		<Item type="ToolType" tool="Pencil" key="N" modifierKeys="None" />
+		<Item type="ToolType" tool="Knife" key="K" modifierKeys="None" />
+		<Item type="ToolType" tool="VectorBrush" key="B" modifierKeys="None" />
+		<Item type="ToolType" tool="VectorFill" key="G" modifierKeys="None" />
+		<Item type="ToolType" tool="VectorTransparency" key="Y" modifierKeys="None" />
+		<Item type="ToolType" tool="ShapeBuilder" key="S" modifierKeys="None" />
+		<Item type="ToolType" tool="VectorFloodFill" key="R" modifierKeys="None" />
+		<Item type="ToolType" tool="TableText" key="T" modifierKeys="None" />
+		<Item type="ToolType" tool="Zoom" key="Z" modifierKeys="None" />
+		<Item type="ToolType" tool="PictureFrameRectangle" key="K" modifierKeys="None" />
+		<Item type="ToolType" tool="PictureFrameEllipse" key="K" modifierKeys="None" />
+		<Item type="ToolType" tool="RasterFloodFill" key="G" modifierKeys="None" />
+		<Item type="ToolType" tool="RasterPaintBrush" key="B" modifierKeys="None" />
+		<Item type="ToolType" tool="RasterColourReplacementBrush" key="R" modifierKeys="None" />
+		<Item type="ToolType" tool="RasterPixel" key="Y" modifierKeys="None" />
+		<Item type="ToolType" tool="RasterEraseBrush" key="E" modifierKeys="None" />
+		<Item type="ToolType" tool="RasterBackgroundEraseBrush" key="E" modifierKeys="None" />
+		<Item type="ToolType" tool="RasterFloodErase" key="E" modifierKeys="None" />
+		<Item type="ToolType" tool="RasterDodgeBrush" key="O" modifierKeys="None" />
+		<Item type="ToolType" tool="RasterBurnBrush" key="O" modifierKeys="None" />
+		<Item type="ToolType" tool="RasterSpongeBrush" key="O" modifierKeys="None" />
+		<Item type="ToolType" tool="RasterCloneBrush" key="S" modifierKeys="None" />
+		<Item type="ToolType" tool="RasterSmudgeBrush" key="S" modifierKeys="None" />
+		<Item type="ToolType" tool="RasterHealingBrush" key="J" modifierKeys="None" />
+		<Item type="ToolType" tool="SelectExportable" key="L" modifierKeys="None" />
+		<Item type="ToolKey" tool="VectorBrush" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="VectorBrush" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="DevelopEffect" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="DevelopEffect" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="LiquifyEffect" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="LiquifyEffect" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="PanoramaEffect" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="PanoramaEffect" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ToneMapEffect" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ToneMapEffect" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="RefineSelection" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="RefineSelection" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="Node" functionEnum="CycleForwards" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="Node" functionEnum="CycleBackwards" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="Node" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="Node" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="Node" functionEnum="CurveBreak" modifierKeys="None" />
+		<Item type="ToolKey" tool="Node" functionEnum="CurveJoin" modifierKeys="None" />
+		<Item type="ToolKey" tool="Node" functionEnum="FitToCurveDelete" key="Back" modifierKeys="Alt" />
+		<Item type="ToolKey" tool="Node" functionEnum="FitToCurveDelete" key="Delete" modifierKeys="Alt" />
+		<Item type="ToolKey" tool="Corner" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="Corner" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="Corner" functionEnum="CycleForwards" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="Corner" functionEnum="CycleBackwards" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="Pen" functionEnum="CurveBreak" modifierKeys="None" />
+		<Item type="ToolKey" tool="Pen" functionEnum="CurveJoin" modifierKeys="None" />
+		<Item type="ToolKey" tool="BlemishRemoval" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="BlemishRemoval" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="BlemishRemoval" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="BlemishRemoval" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="FFTDenoiseEffect" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="FFTDenoiseEffect" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="FFTDenoiseEffect" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="FFTDenoiseEffect" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterEraseBrush" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterEraseBrush" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterEraseBrush" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterEraseBrush" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterColourReplacementBrush" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterColourReplacementBrush" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterColourReplacementBrush" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterColourReplacementBrush" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterPixel" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterPixel" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterPixel" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterPixel" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterPaintMixerBrush" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterPaintMixerBrush" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterPaintMixerBrush" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterPaintMixerBrush" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterBackgroundEraseBrush" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterBackgroundEraseBrush" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterBackgroundEraseBrush" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterBackgroundEraseBrush" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterDodgeBrush" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterDodgeBrush" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterDodgeBrush" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterDodgeBrush" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterBurnBrush" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterBurnBrush" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterBurnBrush" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterBurnBrush" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterSpongeBrush" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterSpongeBrush" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterSpongeBrush" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterSpongeBrush" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterCloneBrush" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterCloneBrush" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterCloneBrush" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterCloneBrush" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterUndoBrush" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterUndoBrush" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterUndoBrush" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterUndoBrush" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterBlurBrush" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterBlurBrush" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterBlurBrush" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterBlurBrush" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterSharpenBrush" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterSharpenBrush" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterSharpenBrush" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterSharpenBrush" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterMedianBrush" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterMedianBrush" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterMedianBrush" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterMedianBrush" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterSmudgeBrush" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterSmudgeBrush" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterSmudgeBrush" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterSmudgeBrush" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterHealingBrush" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterHealingBrush" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterHealingBrush" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterHealingBrush" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterInpaintingBrush" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterInpaintingBrush" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterInpaintingBrush" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterInpaintingBrush" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterSelectionBrush" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterSelectionBrush" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterSelectionBrush" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterSelectionBrush" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterPaintBrush" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterPaintBrush" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterPaintBrush" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterPaintBrush" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterAdjustmentBrush" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterAdjustmentBrush" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterAdjustmentBrush" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterAdjustmentBrush" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterFilterBrush" functionEnum="BrushDecreaseSize" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterFilterBrush" functionEnum="BrushIncreaseSize" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="RasterFilterBrush" functionEnum="BrushDecreaseHardness" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="RasterFilterBrush" functionEnum="BrushIncreaseHardness" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="Pencil" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="Pencil" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="Pencil" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="Pencil" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="Pen" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="Pen" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="Pen" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="Pen" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="Select" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="Select" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="Select" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="Select" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeNode" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeNode" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeNode" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeNode" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeRectangle" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeRectangle" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeRectangle" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeRectangle" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeEllipse" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeEllipse" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeEllipse" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeEllipse" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeRoundedRectangle" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeRoundedRectangle" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeRoundedRectangle" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeRoundedRectangle" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeTriangle" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeTriangle" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeTriangle" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeTriangle" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeDiamond" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeDiamond" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeDiamond" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeDiamond" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeTrapezoid" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeTrapezoid" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeTrapezoid" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeTrapezoid" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapePolygon" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapePolygon" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapePolygon" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapePolygon" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeStar" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeStar" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeStar" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeStar" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeDoubleStar" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeDoubleStar" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeDoubleStar" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeDoubleStar" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapePie" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapePie" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapePie" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapePie" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeDonut" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeDonut" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeDonut" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeDonut" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeArrow" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeArrow" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeArrow" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeArrow" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeCog" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeCog" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeCog" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeCog" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeCloud" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeCloud" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeCloud" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeCloud" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeCalloutRoundRect" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeCalloutRoundRect" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeCalloutRoundRect" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeCalloutRoundRect" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeCalloutEllipse" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeCalloutEllipse" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeCalloutEllipse" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeCalloutEllipse" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeCrescent" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeCrescent" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeCrescent" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeCrescent" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeSegment" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeSegment" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeSegment" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeSegment" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeSquareStar" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeSquareStar" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeSquareStar" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeSquareStar" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeTear" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeTear" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeTear" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeTear" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeHeart" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeHeart" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeHeart" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeHeart" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeCat" functionEnum="StrokeDecreaseWeight" char="[" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeCat" functionEnum="StrokeIncreaseWeight" char="]" modifierKeys="None" />
+		<Item type="ToolKey" tool="ShapeCat" functionEnum="StrokeDecreaseWeightAbsolute" char="[" modifierKeys="Shift" />
+		<Item type="ToolKey" tool="ShapeCat" functionEnum="StrokeIncreaseWeightAbsolute" char="]" modifierKeys="Shift" />
+	</Shortcuts>
+</Workspace>

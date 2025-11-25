@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="Serif.Affinity.Settings.MruSettings">
+	<MruPaths>
+		<MruPath>
+			<Path>C:\Users\hp\Downloads\supermarket.af</Path>
+			<IsPinned>False</IsPinned>
+			<Timestamp>11/9/2025 4:06:46 PM +00:00</Timestamp>
+		</MruPath>
+		<MruPath>
+			<Path>C:\Users\hp\Downloads\supermarket.pdf</Path>
+			<IsPinned>False</IsPinned>
+			<Timestamp>11/3/2025 8:59:56 AM +00:00</Timestamp>
+		</MruPath>
+	</MruPaths>
+</Settings>

@@ -1,0 +1,10 @@
+[2025-11-09T08:02:43.042-08:00] Resolving timed out after 10004 milliseconds
+[2025-11-09T08:02:43.042-08:00] Could not resolve host: affinity.api.serifservices.com
+[2025-11-09T08:03:37.620-08:00] Resolving timed out after 10012 milliseconds
+[2025-11-09T08:03:37.620-08:00] Could not resolve host: affinity.api.serifservices.com
+[2025-11-09T08:03:42.237-08:00] Could not resolve host: affinity.api.serifservices.com
+[2025-11-09T08:03:47.524-08:00] Could not resolve host: affinity.api.serifservices.com
+[2025-11-09T11:24:06.826-08:00] Send failure: Connection was aborted
+[2025-11-09T11:24:06.826-08:00] Session verification failed: Send failure: Connection was aborted
+[2025-11-11T01:46:10.754-08:00] Failed to connect to affinity.api.serifservices.com port 443: Network unreachable
+[2025-11-11T01:46:10.754-08:00] Session verification failed: Failed to connect to affinity.api.serifservices.com port 443: Network unreachable
