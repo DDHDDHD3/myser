@@ -1,0 +1,5 @@
+{
+  "name": "grades1",
+  "description": "A professional certificate generation and verification system. Admins can manage students and design certificates. Public users can verify and download official certificates via ID.",
+  "requestFramePermissions": []
+}
